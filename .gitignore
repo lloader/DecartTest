@@ -1,2 +1,4 @@
-.idea/
-decarttask.iml
+# IntellijIdea files
+*.iml
+.idea
+out
